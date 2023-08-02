@@ -1,0 +1,702 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:OrgMode
+PRODID:-//Ramus Jabee Lloyd Wilson//Emacs with Org mode//EN
+X-WR-TIMEZONE:GMT
+X-WR-CALDESC:
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230802T094655Z
+UID:TS1-1F8D45CC-2CF1-4F4D-978D-C71004A8E401
+DTSTART:20221203T140000
+DTEND:20221203T160000
+SUMMARY:Saturday opening remarks
+DESCRIPTION:<2022-12-03 Sat 14:00>\n• <https://emacsconf.org/2022/talks/sat
+ -open>\n• Etherpad: <https://pad.emacsconf.org/2022-sat-open>\n• Q&A: none
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094655Z
+UID:TS1-3993E449-BB1D-4C9A-954A-A610FE1D4F31
+DTSTART:20221203T140500
+DTEND:20221203T160500
+SUMMARY:Emacs journalism (or everything's a nail if you hit it with Emacs)
+DESCRIPTION:<2022-12-03 Sat 14:05>\n• Alfred Zanini (he/they)\n• <https://e
+ macsconf.org/2022/talks/journalism>\n• Etherpad: <https://pad.emacsconf.or
+ g/2022-journalism>\n• Q&A: <https://emacsconf.org/current/journalism/room/
+ >
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094655Z
+UID:TS1-6F1B84A3-B019-4891-9893-D5EB237B3CE1
+DTSTART:20221203T144500
+DTEND:20221203T164500
+SUMMARY:Back to school with Emacs
+DESCRIPTION:<2022-12-03 Sat 14:45>\n• Daniel Rösel\n• <https://emacsconf.or
+ g/2022/talks/school>\n• Etherpad: <https://pad.emacsconf.org/2022-school>\
+ n• Q&A: nick: velocitatem\, emacsconf-gen\n\nIn this talk\, Daniel Rosel d
+ emonstrates Lectorg\, a package that he\nwrote to make note taking faster 
+ and simpler. Afterwards\, he will\nhandle questions over IRC.
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094655Z
+UID:TS1-0C7B558B-FBE4-4E8C-94FE-01FEC0D9DBF6
+DTSTART:20221203T150500
+DTEND:20221203T170500
+SUMMARY:How to incorporate handwritten notes into Emacs Orgmode
+DESCRIPTION:<2022-12-03 Sat 15:05>\n• Bala Ramadurai (his/him)\n• <https://
+ emacsconf.org/2022/talks/handwritten>\n• Etherpad: <https://pad.emacsconf.
+ org/2022-handwritten>\n• Q&A: <https://emacsconf.org/current/handwritten/r
+ oom/>\n\nIn this talk\, Bala Ramadurai shares how he takes handwritten not
+ es and\nincludes them in his Org Mode files. Afterwards\, he will handle\n
+ questions over BigBlueButton.
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094655Z
+UID:TS1-AA348574-4DDC-4DAE-A33C-090DC0839882
+DTSTART:20221203T154500
+DTEND:20221203T174500
+SUMMARY:Writing and organizing literature notes for scientific writing
+DESCRIPTION:<2022-12-03 Sat 15:45>\n• Vidianos Giannitsis\n• <https://emacs
+ conf.org/2022/talks/science>\n• Etherpad: <https://pad.emacsconf.org/2022-
+ science>\n• Q&A: <https://emacsconf.org/current/science/room/>\n\nIn this 
+ talk\, Vidianos Giannitsis shares how he uses Org Roam\,\norg-noter\, and 
+ zetteldesk.el to manage his literature notes and write\narticles. Afterwar
+ ds\, he will handle questions over BigBlueButton.
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094655Z
+UID:TS1-F8B2ECAA-17F9-4B1B-BC5C-091E41E63A4C
+DTSTART:20221203T162500
+DTEND:20221203T182500
+SUMMARY:The Emacs Buddy initiative
+DESCRIPTION:<2022-12-03 Sat 16:25>\n• Andrea\n• <https://emacsconf.org/2022
+ /talks/buddy>\n• Etherpad: <https://pad.emacsconf.org/2022-buddy>\n• Q&A: 
+ emacsconf-gen\n\nIn this talk\, Andrea shares how to connect with an Emacs
+  Buddy for\none-to-one peer mentoring. Afterwards\, he will answer questio
+ ns over\nIRC.
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094655Z
+UID:TS1-94E2C77B-9149-4EA8-AD28-7195BD3AE195
+DTSTART:20221203T180000
+DTEND:20221203T200000
+SUMMARY:Attending and organizing Emacs meetups
+DESCRIPTION:<2022-12-03 Sat 18:00>\n• Bhavin Gandhi (he/him)\n• <https://em
+ acsconf.org/2022/talks/meetups>\n• Etherpad: <https://pad.emacsconf.org/20
+ 22-meetups>\n• Q&A: <https://emacsconf.org/current/meetups/room/>\n\nIn th
+ is talk\, Bhavin Ghandi shares how to participate in Emacs meetups\nand ev
+ en how to organize your own. Afterwards\, he will handle\nquestions over B
+ igBlueButton.
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094655Z
+UID:TS1-7AAC09F3-2742-4796-A7A1-7F691FEC04A9
+DTSTART:20221203T184000
+DTEND:20221203T204000
+SUMMARY:Linking personal info with Hyperbole implicit buttons
+DESCRIPTION:<2022-12-03 Sat 18:40>\n• Mats Lidell (he/him)\n• <https://emac
+ sconf.org/2022/talks/buttons>\n• Etherpad: <https://pad.emacsconf.org/2022
+ -buttons>\n• Q&A: <https://emacsconf.org/current/buttons/room/>\n\nIn this
+  talk\, Mats Lidell shares how you can create your own\nhyperbutton syntax
+  that can be used in any file to trigger any kind of\naction.  After the t
+ alk\, he will answer your questions via\nBigBlueButton.
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094655Z
+UID:TS1-7E9BE275-368D-4C58-9EDF-18B094ADFD0E
+DTSTART:20221203T191500
+DTEND:20221203T211500
+SUMMARY:Real estate and Org table formulas
+DESCRIPTION:<2022-12-03 Sat 19:15>\n• Daniel Gopar (he/him)\n• <https://ema
+ csconf.org/2022/talks/realestate>\n• Etherpad: <https://pad.emacsconf.org/
+ 2022-realestate>\n• Q&A: none\n\nIn this talk\, Daniel Gopar shares how he
+  uses Org tables as\nspreadsheets to help him decide on real estate\ninves
+ tments. Afterwards\, he will handle questions via the Etherpad.
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094655Z
+UID:TS1-F3BD9168-5F04-4BFE-A6FD-D50CA748CB2E
+DTSTART:20221203T200000
+DTEND:20221203T220000
+SUMMARY:Health data journaling and visualization with Org Mode and GNUplot
+DESCRIPTION:<2022-12-03 Sat 20:00>\n• David O'Toole (he/him)\n• <https://em
+ acsconf.org/2022/talks/health>\n• Etherpad: <https://pad.emacsconf.org/202
+ 2-health>\n• Q&A: <https://emacsconf.org/current/health/room/>\n\nIn this 
+ talk\, David O'Toole shares how he tracked and graphed his\npersonal data 
+ using Org mode and Gnuplot\, and how you can use a\ntemplate generator to 
+ do the same. Afterwards\, he will handle\nquestions over BigBlueButton.
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094655Z
+UID:TS1-47E247D8-DEF8-4934-A317-057402766174
+DTSTART:20221203T204500
+DTEND:20221203T224500
+SUMMARY:Edit live Jupyter notebook cells with Emacs
+DESCRIPTION:<2022-12-03 Sat 20:45>\n• Blaine Mooers (he/him)\n• <https://em
+ acsconf.org/2022/talks/jupyter>\n• Etherpad: <https://pad.emacsconf.org/20
+ 22-jupyter>\n• Q&A: <https://emacsconf.org/current/jupyter/room/>
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094655Z
+UID:TS1-335D1BCE-3DDA-4516-86B4-FC6326D4595C
+DTSTART:20221203T215000
+DTEND:20221203T235000
+SUMMARY:Saturday closing remarks
+DESCRIPTION:<2022-12-03 Sat 21:50>\n• <https://emacsconf.org/2022/talks/sat
+ -close>\n• Etherpad: <https://pad.emacsconf.org/2022-sat-close>\n• Q&A: no
+ ne
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094655Z
+UID:TS1-B331D01E-8BFD-4FDC-85C4-56BA88F7B730
+DTSTART:20221204T140000
+DTEND:20221204T160000
+SUMMARY:Sunday opening remarks
+DESCRIPTION:<2022-12-04 Sun 14:00>\n• <https://emacsconf.org/2022/talks/sun
+ -open>\n• Etherpad: <https://pad.emacsconf.org/2022-sun-open>\n• Q&A: none
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-262D0212-6F2F-4C0B-85B9-39DADB52B15C
+DTSTART:20221204T140500
+DTEND:20221204T160500
+SUMMARY:Results of the 2022 Emacs Survey
+DESCRIPTION:<2022-12-04 Sun 14:05>\n• Timothy (he/him)\n• <https://emacscon
+ f.org/2022/talks/survey>\n• Etherpad: <https://pad.emacsconf.org/2022-surv
+ ey>\n• Q&A: nick: tecosaur\, emacsconf-gen
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-8BF8F1D9-EC69-47B5-920E-FD6CE119C17B
+DTSTART:20221204T143500
+DTEND:20221204T163500
+SUMMARY:This Year in Org
+DESCRIPTION:<2022-12-04 Sun 14:35>\n• Timothy (he/him)\n• <https://emacscon
+ f.org/2022/talks/orgyear>\n• Etherpad: <https://pad.emacsconf.org/2022-org
+ year>\n• Q&A: nick: tecosaur\, emacsconf-gen
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-850954BD-3357-4A73-BFFE-BBFC5DBFED2A
+DTSTART:20221204T145500
+DTEND:20221204T165500
+SUMMARY:Build a Zettelkasten with the Hyperbole Rolodex
+DESCRIPTION:<2022-12-04 Sun 14:55>\n• Ramin Honary (he/him)\n• <https://ema
+ csconf.org/2022/talks/rolodex>\n• Etherpad: <https://pad.emacsconf.org/202
+ 2-rolodex>\n• Q&A: emacsconf-gen\n\nIn this talk\, Ramin Honary shares how
+  he uses HyRolo to create and\nnavigate links between his notes. Afterward
+ s\, he will handle questions\nvia IRC.
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-A4773947-78E5-43F3-A687-F122E67A1BDC
+DTSTART:20221204T154000
+DTEND:20221204T174000
+SUMMARY:Linking headings with org-super-links (poor-man's Zettelkasten)
+DESCRIPTION:<2022-12-04 Sun 15:40>\n• Karl Voit (he/him)\n• <https://emacsc
+ onf.org/2022/talks/orgsuperlinks>\n• Etherpad: <https://pad.emacsconf.org/
+ 2022-orgsuperlinks>\n• Q&A: <https://emacsconf.org/current/orgsuperlinks/r
+ oom/>\n\nIn this talk\, Karl Voit shares how he uses org-edna and\norg-sup
+ er-links to manage dependencies and links betweentasks in Org\nMode. After
+ wards\, he will handle questions over BigBlueButton.
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-573F56DB-0B50-416E-93F5-8C537F077239
+DTSTART:20221204T161000
+DTEND:20221204T181000
+SUMMARY:orgvm: a simple HTTP server for org
+DESCRIPTION:<2022-12-04 Sun 16:10>\n• Corwin Brust (he/him/any)\n• <https:/
+ /emacsconf.org/2022/talks/orgvm>\n• Etherpad: <https://pad.emacsconf.org/2
+ 022-orgvm>\n• Q&A: <https://emacsconf.org/current/orgvm/room/>
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-34DC2F3F-B594-406B-B04F-C1C7FC8D7F38
+DTSTART:20221204T180000
+DTEND:20221204T200000
+SUMMARY:Powerful productivity with Hyperbole and Org Mode
+DESCRIPTION:<2022-12-04 Sun 18:00>\n• Robert Weiner\n• <https://emacsconf.o
+ rg/2022/talks/hyperorg>\n• Etherpad: <https://pad.emacsconf.org/2022-hyper
+ org>\n• Q&A: <https://emacsconf.org/current/hyperorg/room/>
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-68C0584B-0221-4FFF-9D40-C9B0EF6F3286
+DTSTART:20221204T185000
+DTEND:20221204T205000
+SUMMARY:Org workflows for developers
+DESCRIPTION:<2022-12-04 Sun 18:50>\n• George Mauer (he/him/they/ze)\n• <htt
+ ps://emacsconf.org/2022/talks/workflows>\n• Etherpad: <https://pad.emacsco
+ nf.org/2022-workflows>\n• Q&A: <https://emacsconf.org/current/workflows/ro
+ om/>\n\nIn this talk\, George Mauer demonstrates several ways that Org Mod
+ e can\nhelp people explore and develop code. Afterwards\, he will handle\n
+ questions via BigBlueButton.
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-FA90986C-AA29-42D3-A4B2-8EC72A710FA2
+DTSTART:20221204T193500
+DTEND:20221204T213500
+SUMMARY:GRAIL—A Generalized Representation and Aggregation of Information L
+ ayers
+DESCRIPTION:<2022-12-04 Sun 19:35>\n• Sameer Pradhan (he/him)\n• <https://e
+ macsconf.org/2022/talks/grail>\n• Etherpad: <https://pad.emacsconf.org/202
+ 2-grail>\n• Q&A: <https://emacsconf.org/current/grail/room/>
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-A3A4482B-8861-40EB-B639-51E15D529781
+DTSTART:20221204T202500
+DTEND:20221204T222500
+SUMMARY:Putting Org Mode on the Indieweb
+DESCRIPTION:<2022-12-04 Sun 20:25>\n• Michael Herstine\n• <https://emacscon
+ f.org/2022/talks/indieweb>\n• Etherpad: <https://pad.emacsconf.org/2022-in
+ dieweb>\n• Q&A: <https://emacsconf.org/current/indieweb/room/>\n\nIn this 
+ talk\, Michael Herstine shows how to set up Org Mode for\nsending and publ
+ ishing Webmentions as part of the\nIndieweb. Afterwards\, he will handle q
+ uestions via BigBlueButton.
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-5365DFC2-0AD6-4AF1-8326-67AD4B15A127
+DTSTART:20221204T210500
+DTEND:20221204T230500
+SUMMARY:Emacs development updates
+DESCRIPTION:<2022-12-04 Sun 21:05>\n• John Wiegley\n• <https://emacsconf.or
+ g/2022/talks/devel>\n• Etherpad: <https://pad.emacsconf.org/2022-devel>\n•
+  Q&A: none\n\nIn this talk\, John Wiegley will briefly summarize important
+ \ndevelopments on the road to Emacs 29. He will not be able to answer\nque
+ stions right now\, but you can post questions in the pad and he can\nfollo
+ w up after the event.
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-9B206B62-7315-4426-863E-011A64AF8EAE
+DTSTART:20221204T212500
+DTEND:20221204T232500
+SUMMARY:Fanfare for the Common Emacs User
+DESCRIPTION:<2022-12-04 Sun 21:25>\n• John Cummings\n• <https://emacsconf.o
+ rg/2022/talks/fanfare>\n• Etherpad: <https://pad.emacsconf.org/2022-fanfar
+ e>\n• Q&A: <https://emacsconf.org/current/fanfare/room/>
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-400EC75D-9C28-445C-B28B-5AF958FEA38B
+DTSTART:20221204T215000
+DTEND:20221204T235000
+SUMMARY:Sunday closing remarks
+DESCRIPTION:<2022-12-04 Sun 21:50>\n• <https://emacsconf.org/2022/talks/sun
+ -close>\n• Etherpad: <https://pad.emacsconf.org/2022-sun-close>\n• Q&A: no
+ ne
+CATEGORIES:gen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-3D8F0397-A7EA-4B3C-9BF9-731FFDAF5AEC
+DTSTART:20221203T150000
+DTEND:20221203T170000
+SUMMARY:Tree-sitter beyond syntax highlighting
+DESCRIPTION:<2022-12-03 Sat 15:00>\n• Abin Simon\n• <https://emacsconf.org/
+ 2022/talks/treesitter>\n• Etherpad: <https://pad.emacsconf.org/2022-treesi
+ tter>\n• Q&A: nick: meain\, emacsconf-dev\n\nIn this talk\, Abin Simon sha
+ res many ways in which Tree-sitter can\nhelp improve your text editing wor
+ kflow. Afterwards\, he will answer\nquestions via IRC.
+CATEGORIES:dev
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-5A0DB6E9-A9CF-4D71-8144-67DAF8823801
+DTSTART:20221203T152500
+DTEND:20221203T172500
+SUMMARY:lsp-bridge: complete asynchronous LSP client
+DESCRIPTION:<2022-12-03 Sat 15:25>\n• Andy Stewart\, Matthew Zeng\n• <https
+ ://emacsconf.org/2022/talks/lspbridge>\n• Etherpad: <https://pad.emacsconf
+ .org/2022-lspbridge>\n• Q&A: nick: manateelazycat\, emacsconf-dev
+CATEGORIES:dev
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-CB5F464E-7F6E-43F6-96EB-126FECC2CDE3
+DTSTART:20221203T155500
+DTEND:20221203T175500
+SUMMARY:asm-blox: a game based on WebAssembly that no one asked for
+DESCRIPTION:<2022-12-03 Sat 15:55>\n• Zachary Romero\n• <https://emacsconf.
+ org/2022/talks/asmblox>\n• Etherpad: <https://pad.emacsconf.org/2022-asmbl
+ ox>\n• Q&A: <https://emacsconf.org/current/asmblox/room/>\n\nIn this talk\
+ , Zachary Romero shares a game he wrote and how he made\nit. Afterwards\, 
+ he will handle questions over BigBlueButton.
+CATEGORIES:dev
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-2AB87AC7-99C1-49BB-9A3B-87864EAB925F
+DTSTART:20221203T162500
+DTEND:20221203T182500
+SUMMARY:Emacs should become a Wayland compositor
+DESCRIPTION:<2022-12-03 Sat 16:25>\n• Michael Bauer\n• <https://emacsconf.o
+ rg/2022/talks/wayland>\n• Etherpad: <https://pad.emacsconf.org/2022-waylan
+ d>\n• Q&A: <https://emacsconf.org/current/wayland/room/>
+CATEGORIES:dev
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-0A15231C-2C88-4073-8CE3-76BDA23C3E71
+DTSTART:20221203T180000
+DTEND:20221203T200000
+SUMMARY:Using SQLite as a data source: a framework and an example
+DESCRIPTION:<2022-12-03 Sat 18:00>\n• Andrew Hyatt (he/him)\n• <https://ema
+ csconf.org/2022/talks/sqlite>\n• Etherpad: <https://pad.emacsconf.org/2022
+ -sqlite>\n• Q&A: <https://emacsconf.org/current/sqlite/room/>\n\nIn this t
+ alk\, Andrew Hyatt shows how to use SQLite to store and\nretrieve informat
+ ion using the triples package. Afterwards\, he wil\nhandle questions over 
+ BigBlueButton.
+CATEGORIES:dev
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-9FAB4300-5675-4B05-8233-5052F9E42924
+DTSTART:20221203T185000
+DTEND:20221203T205000
+SUMMARY:Revisiting the anatomy of Emacs mail user agents
+DESCRIPTION:<2022-12-03 Sat 18:50>\n• Mohsen BANAN (he/him)\n• <https://ema
+ csconf.org/2022/talks/mail>\n• Etherpad: <https://pad.emacsconf.org/2022-m
+ ail>\n• Q&A: <https://emacsconf.org/current/mail/room/>\n\nIn this talk\, 
+ Mohsen Banan describes how Emacs mail can be part of a\ncomprehensive digi
+ tal ecosystem. Afterwards\, he will handle questions\nvia BigBlueButton.
+CATEGORIES:dev
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-D3BEC2A0-BC71-469E-BEE1-FD0FDDF39718
+DTSTART:20221203T195000
+DTEND:20221203T215000
+SUMMARY:Maintaining the Maintainers: Attribution as an Economic Model for O
+ pen Source
+DESCRIPTION:<2022-12-03 Sat 19:50>\n• Sid Kasivajhula (he/him or any)\n• <h
+ ttps://emacsconf.org/2022/talks/maint>\n• Etherpad: <https://pad.emacsconf
+ .org/2022-maint>\n• Q&A: <https://emacsconf.org/current/maint/room/>
+CATEGORIES:dev
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-08CEF6EA-7DBD-4F3F-BB5C-D98B23D62FDC
+DTSTART:20221203T203500
+DTEND:20221203T223500
+SUMMARY:Bidirectional links with eev
+DESCRIPTION:<2022-12-03 Sat 20:35>\n• Eduardo Ochs\n• <https://emacsconf.or
+ g/2022/talks/eev>\n• Etherpad: <https://pad.emacsconf.org/2022-eev>\n• Q&A
+ : emacsconf-dev
+CATEGORIES:dev
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-9788E30C-C64C-419E-B17A-F8BFDF46DE12
+DTSTART:20221203T205000
+DTEND:20221203T225000
+SUMMARY:Short hyperlinks to Python docs
+DESCRIPTION:<2022-12-03 Sat 20:50>\n• Eduardo Ochs\n• <https://emacsconf.or
+ g/2022/talks/python>\n• Etherpad: <https://pad.emacsconf.org/2022-python>\
+ n• Q&A: emacsconf-dev
+CATEGORIES:dev
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-2AE6BB06-4D3D-42D3-A7F3-5CCB4FC24568
+DTSTART:20221203T210500
+DTEND:20221203T230500
+SUMMARY:Haskell code exploration with Emacs
+DESCRIPTION:<2022-12-03 Sat 21:05>\n• Yuchen Pei\n• <https://emacsconf.org/
+ 2022/talks/haskell>\n• Etherpad: <https://pad.emacsconf.org/2022-haskell>\
+ n• Q&A: <https://emacsconf.org/current/haskell/room/>\n\nIn this talk\, Yu
+ chen Pei shares how to explore Haskell code and write\ndocumentation. Afte
+ rwards\, he will handle questions via BigBlueButton.
+CATEGORIES:dev
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-9F13CE7E-F6E4-4822-B3DA-E60D0470268E
+DTSTART:20221204T150000
+DTEND:20221204T170000
+SUMMARY:rde Emacs introduction
+DESCRIPTION:<2022-12-04 Sun 15:00>\n• Andrew Tropin (he/him)\n• <https://em
+ acsconf.org/2022/talks/rde>\n• Etherpad: <https://pad.emacsconf.org/2022-r
+ de>\n• Q&A: <https://emacsconf.org/current/rde/room/>\n\nIn this talk\, An
+ drew Tropin will demonstrate how to use rde Emacs for\nreproducible config
+ uration\, including how to enable or remove\nfeatures. Afterwards\, he wil
+ l handle questions over BigBlueButton.
+CATEGORIES:dev
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-BA2197B6-8B25-49D4-9F32-84891DE3F133
+DTSTART:20221204T155000
+DTEND:20221204T175000
+SUMMARY:justl: Driving recipes within Emacs
+DESCRIPTION:<2022-12-04 Sun 15:50>\n• Sibi Prabakaran (he/him)\n• <https://
+ emacsconf.org/2022/talks/justl>\n• Etherpad: <https://pad.emacsconf.org/20
+ 22-justl>\n• Q&A: emacsconf-dev\n\nIn this talk\, Sibi Prabakaran shares h
+ ow to use justl to run justfile\ntasks from inside Emacs\, including a com
+ parison with\nMakefiles. Afterwards\, he will handle questions over IRC.
+CATEGORIES:dev
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-A2FA597C-72C7-4C2F-9236-C07DBA3CE79C
+DTSTART:20221204T161500
+DTEND:20221204T181500
+SUMMARY:Message from RMS
+DESCRIPTION:<2022-12-04 Sun 16:15>\n• Richard M. Stallman\n• <https://emacs
+ conf.org/2022/talks/rms>\n• Etherpad: <https://pad.emacsconf.org/2022-rms>
+ \n• Q&A: Moderated via Mumble\, ask questions via pad or IRC\n\nIn this ta
+ lk\, Richard Stallman will discuss what he believes will be\ngood ways to 
+ improve Emacs. Afterwards\, there will be a moderated Q&A\,\nso please put
+  your questions in the Etherpad.
+CATEGORIES:dev
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-2307F479-B6DE-413E-8D70-65FBF5AABACD
+DTSTART:20221204T180000
+DTEND:20221204T200000
+SUMMARY:Getting detached from Emacs
+DESCRIPTION:<2022-12-04 Sun 18:00>\n• Niklas Eklund (he/him)\n• <https://em
+ acsconf.org/2022/talks/detached>\n• Etherpad: <https://pad.emacsconf.org/2
+ 022-detached>\n• Q&A: <https://emacsconf.org/current/detached/room/>\n\nIn
+  this talk\, Niklas Eklund shows how to use detached to manage\nlong-runni
+ ng asynchronous processes\, including how to search through\nand compare s
+ ession results. Afterwards\, he will handle questions via\nBigBlueButton.
+CATEGORIES:dev
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-1061033E-01EE-4BBA-80C2-F8FC036E4E98
+DTSTART:20221204T184000
+DTEND:20221204T204000
+SUMMARY:Top 10 reasons why you should be using Eshell
+DESCRIPTION:<2022-12-04 Sun 18:40>\n• Howard Abrams (he/him)\n• <https://em
+ acsconf.org/2022/talks/eshell>\n• Etherpad: <https://pad.emacsconf.org/202
+ 2-eshell>\n• Q&A: <https://emacsconf.org/current/eshell/room/>\n\nIn this 
+ talk\, Howard Abrams shows how eshell combines the best of\nEmacs Lisp and
+  shells. Afterwards\, he will handle questions via\nBigBlueButton.
+CATEGORIES:dev
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-0D64E778-308C-420A-AEA6-888E440A2DC2
+DTSTART:20221204T192000
+DTEND:20221204T212000
+SUMMARY:Emacs was async before async was cool
+DESCRIPTION:<2022-12-04 Sun 19:20>\n• Michael Herstine\n• <https://emacscon
+ f.org/2022/talks/async>\n• Etherpad: <https://pad.emacsconf.org/2022-async
+ >\n• Q&A: <https://emacsconf.org/current/async/room/>
+CATEGORIES:dev
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-BD4BD1D3-ACFE-4A59-A03A-819E6EA79AC4
+DTSTART:20221204T201500
+DTEND:20221204T221500
+SUMMARY:The Wheels on D-Bus
+DESCRIPTION:<2022-12-04 Sun 20:15>\n• Ian Eure (he/him)\n• <https://emacsco
+ nf.org/2022/talks/dbus>\n• Etherpad: <https://pad.emacsconf.org/2022-dbus>
+ \n• Q&A: <https://emacsconf.org/current/dbus/room/>
+CATEGORIES:dev
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-5082DB7C-E81B-4D3E-B7EC-E866F5E17744
+DTSTART:20221204T210000
+DTEND:20221204T230000
+SUMMARY:Pre-localizing Emacs
+DESCRIPTION:<2022-12-04 Sun 21:00>\n• Jean-Christophe Helary (he/him)\n• <h
+ ttps://emacsconf.org/2022/talks/localizing>\n• Etherpad: <https://pad.emac
+ sconf.org/2022-localizing>\n• Q&A: <https://emacsconf.org/current/localizi
+ ng/room/>
+CATEGORIES:dev
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-C8DEC6A8-2910-4920-A723-F26A3BC6DF2E
+DTSTART;VALUE=DATE:20210908
+DTEND;VALUE=DATE:20210909
+SUMMARY:Follow up with ECOBANK on [Transaction Notification on A\\c No 6100
+ ****22] (<mu4e:msgid:1701760613.3584897.1630921384042@smtpeuotp.pepipost.c
+ om>)
+DESCRIPTION:SCHEDULED:<2021-09-08 Wed> DEADLINE: <2021-09-10 Fri>
+CATEGORIES:bank,Mails
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS2-C8DEC6A8-2910-4920-A723-F26A3BC6DF2E
+DTSTART;VALUE=DATE:20210910
+DTEND;VALUE=DATE:20210911
+SUMMARY:Follow up with ECOBANK on [Transaction Notification on A\\c No 6100
+ ****22] (<mu4e:msgid:1701760613.3584897.1630921384042@smtpeuotp.pepipost.c
+ om>)
+DESCRIPTION:SCHEDULED:<2021-09-08 Wed> DEADLINE: <2021-09-10 Fri>
+CATEGORIES:bank,Mails
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-FC9B001D-B3B0-424F-8427-A943F740220D
+DTSTART;VALUE=DATE:20210908
+DTEND;VALUE=DATE:20210909
+SUMMARY:Follow up with Ramus Wilson on [Ramus] (<mu4e:msgid:516D28CA-7D2D-4
+ 132-9DDE-E926157E64E1@icloud.com>)
+DESCRIPTION:SCHEDULED:<2021-09-08 Wed> DEADLINE: <2021-09-10 Fri>
+CATEGORIES:Mails
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS2-FC9B001D-B3B0-424F-8427-A943F740220D
+DTSTART;VALUE=DATE:20210910
+DTEND;VALUE=DATE:20210911
+SUMMARY:Follow up with Ramus Wilson on [Ramus] (<mu4e:msgid:516D28CA-7D2D-4
+ 132-9DDE-E926157E64E1@icloud.com>)
+DESCRIPTION:SCHEDULED:<2021-09-08 Wed> DEADLINE: <2021-09-10 Fri>
+CATEGORIES:Mails
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-973C981B-91D2-4724-A9EE-69F37A048795
+DTSTART;VALUE=DATE:20220717
+DTEND;VALUE=DATE:20220718
+SUMMARY:Follow up with Reddit on ["procress: A simple emacs package to indi
+ cate…"] (<mu4e:msgid:0100018203c4e9f3-848a984d-71ac-45de-87eb-5d9794f209a8
+ -000000@email.amazonses.com>)
+DESCRIPTION:DEADLINE: <2022-07-17 Sun>
+CATEGORIES:Mails
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-ED872386-34FE-4009-B888-08E400EDEFCA
+DTSTART;VALUE=DATE:20221020
+DTEND;VALUE=DATE:20221021
+SUMMARY:Follow up with Morning Brew on [☕ Trouble on the Mississippi] (<mu4
+ e:msgid:20221017055454.29393356.3731129@sailthru.com>)
+DESCRIPTION:DEADLINE: <2022-10-20 Thu>
+CATEGORIES:Mails
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-965A6225-15AD-4A57-B45E-46ADA7F1CC04
+DTSTART;VALUE=DATE:20220106
+DTEND;VALUE=DATE:20220107
+SUMMARY:Read This is why I love you
+DESCRIPTION:DEADLINE: <2022-01-06 Thu>\n\n[This is why I love you] (<mu4e:m
+ sgid:m2v8yzuzp6.fsf@gmail.com>)
+CATEGORIES:Mails
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-A59E5135-BCEB-4B69-9622-AAAB096931B2
+DTSTART;VALUE=DATE:20220107
+DTEND;VALUE=DATE:20220108
+SUMMARY:Read
+DESCRIPTION:DEADLINE: <2022-01-07 Fri>
+CATEGORIES:Mails
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-BE07983F-7526-461C-8817-232565CA4850
+DTSTART;VALUE=DATE:20220107
+DTEND;VALUE=DATE:20220108
+SUMMARY:Read
+DESCRIPTION:DEADLINE: <2022-01-07 Fri>
+CATEGORIES:Mails
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-EC6109A1-E42A-4E9F-B823-597E08E52F79
+DTSTART;VALUE=DATE:20220107
+DTEND;VALUE=DATE:20220108
+SUMMARY:Read
+DESCRIPTION:DEADLINE: <2022-01-07 Fri>
+CATEGORIES:Mails
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094656Z
+UID:TS1-C454ABE3-A7FC-4C0A-A7D1-294B05C01961
+DTSTART;VALUE=DATE:20220710
+DTEND;VALUE=DATE:20220711
+SUMMARY:Read ☕ "Barbaric act"
+DESCRIPTION:DEADLINE: <2022-07-10 Sun>\n\n[☕ "Barbaric act"]\n(<mu4e:msgid:
+ 20220708060349.28306180.4225054@sailthru.com>)
+CATEGORIES:Mails
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094657Z
+UID:TS1-040000008200E00074C5B7101A82E00800000000A0A6C3ABB8F2D80100000000000
+ 0000010000000A97488C5747E264AA1455AC4E577EA90
+DTSTART:20221109T140000
+DTEND:20221109T143000
+SUMMARY:Pentana Audit - SaaS Migration discussion - Republic of Liberia Int
+ ernal Audit Agency (Microsoft Teams Meeting)
+LOCATION:Microsoft Teams Meeting
+DESCRIPTION:<2022-11-09 Wed 14:00>–<2022-11-09 Wed 14:30>\n\n\n____________
+ ____________________________________________________________________\nMicr
+ osoft Teams meeting Join on your computer\, mobile app or room\ndevice Cli
+ ck here to join the\nmeeting<https://teams.microsoft.com/l/meetup-join/19%
+ 3ameeting_YjdjMGFkOTEtNzM3ZS00YTkxLTk3MDQtOTM2ZjQ4OTM0NGEy%40thread.v2/0?c
+ ontext=%7b%22Tid%22%3a%221b7b26ac-444b-49f9-b397-7932bf0bac82%22%2c%22Oid%
+ 22%3a%2271a6202f-9976-4611-b753-accbd5337762%22%7d>\nMeeting ID: 311 498 3
+ 67 947 Passcode: Zg8Roj Download\nTeams<https://www.microsoft.com/en-us/mi
+ crosoft-teams/download-app> |\nJoin on the\nweb<https://www.microsoft.com/
+ microsoft-teams/join-a-meeting> Join\nwith a video conferencing device\n85
+ 76091@t.plcm.vc<mailto:8576091@t.plcm.vc> Video Conference ID: 127\n070 25
+ 3 3 Alternate VTC\ninstructions<https://dialin.plcm.vc/teams/?key=8576091&
+ conf=1270702533>\nOr call in (audio only) +44 20 3787\n4277\,\,709049861#<
+ tel:+442037874277\,\,709049861#> United Kingdom\, London\nPhone Conference
+  ID: 709 049 861# Find a local\nnumber<https://dialin.teams.microsoft.com/
+ c7dd8f65-a572-4db9-a6e4-75c26e5094a8?id=709049861>\n| Reset PIN<https://di
+ alin.teams.microsoft.com/usp/pstnconferencing>\n[<https://ideagenimages.az
+ ureedge.net/exclaimer/2020-11-03-ideagen-logo-x2.png>]\nNOTE: This meeting
+  may be recorded for training and monitoring\npurposes.  Learn More<https:
+ //aka.ms/JoinTeamsMeeting> | Meeting\noptions<https://teams.microsoft.com/
+ meetingOptions/?organizerId=71a6202f-9976-4611-b753-accbd5337762&tenantId=
+ 1b7b26ac-444b-49f9-b397-7932bf0bac82&threadId=19_meeting_YjdjMGFkOTEtNzM3Z
+ S00YTkxLTk3MDQtOTM2ZjQ4OTM0NGEy@thread.v2&messageId=0&language=en-US>\n| L
+ egal<https://www.ideagen.com/privacy-policy>\n____________________________
+ ____________________________________________________
+CATEGORIES:Mails
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T094657Z
+UID:TS1-0failrihvdktk8f0hv2e28mdo3@google.com
+DTSTART:20221113T050000
+DTEND:20221113T060000
+SUMMARY:Test Meeting ()
+DESCRIPTION:<2022-11-13 Sun 05:00>–<2022-11-13 Sun 06:00>\n\nTesting meetin
+ g\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~::~:~::-\nJoin with Google Meet: <https://meet.google.com/gdr-et
+ gr-poc>\n\nLearn more about Meet at:\n<https://support.google.com/a/users/
+ answer/9282720>\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+CATEGORIES:Mails
+END:VEVENT
+END:VCALENDAR
